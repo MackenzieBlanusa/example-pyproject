@@ -1,4 +1,6 @@
 [project]
 name = "example-pyproject"
 version = "0.0.1a1"
-
+authors = [
+    {name = "Maggie May", email = "maggie.may@gmail.com"}
+]
