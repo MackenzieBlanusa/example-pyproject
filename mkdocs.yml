@@ -1,0 +1,4 @@
+site_name: Example Package Documentation 
+site_url: https://github.com/MackenzieBlanusa/example-pyproject
+theme:
+  name: material
