@@ -14,12 +14,15 @@ requires-python = ">=3.9"
 dependencies = [
     "numpy"
 ]
+[project.optional-dependencies]
+docs = [
+   "mkdocs-material",
+]
 
 [build-system]
 build-backend = "setuptools.build_meta"
 requires = [
     "setuptools",
 ]
-
 
 
